@@ -4,5 +4,6 @@ public class Test {
         System.out.println("Hi saya Fafa, ini baris kode pertama saya");
 
         System.out.println("Halo fafa, saya budi");
+        System.out.println("Halo Budi dan fafa, saya rendy");
     }
 }
